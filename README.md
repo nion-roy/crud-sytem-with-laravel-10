@@ -1,4 +1,4 @@
-Multi auth system, Image Intervention Package, CRUD, Laravel Eloquent with Post
+CRUD, Multi auth system, Image Intervention, Laravel Eloquent with Post
 
 ![Screenshot_6](https://github.com/nion-roy/crud-sytem-with-laravel-10/assets/111300630/733bbe89-ed49-4ec7-bfbd-32f92eb5802f)
 
